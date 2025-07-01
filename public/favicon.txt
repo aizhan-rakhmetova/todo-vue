@@ -1,8 +1,0 @@
-This is a placeholder for favicon.ico
-
-In a real project, you would place a proper favicon.ico file here.
-For development purposes, you can replace this text file with an actual favicon.ico file.
-
-You can generate a favicon using online tools like:
-- https://favicon.io/
-- https://realfavicongenerator.net/
